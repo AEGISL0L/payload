@@ -23,12 +23,12 @@
     "cross-env": "^7.0.3",
     "dotenv": "^8.2.0",
     "graphql": "^16.9.0",
-    "next": "15.0.0",
+    "next": "15.0.3",
     "payload": "beta",
     "qs-esm": "7.0.2",
     "react": "19.0.0-rc-65a56d0e-20241020",
     "react-dom": "19.0.0-rc-65a56d0e-20241020",
-    "sharp": "0.32.6"
+    "sharp": "0.33.5"
   },
   "devDependencies": {
     "@payloadcms/graphql": "beta",
